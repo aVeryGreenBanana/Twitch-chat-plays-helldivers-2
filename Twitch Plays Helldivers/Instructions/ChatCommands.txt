@@ -1,0 +1,28 @@
+Command List:
+left
+right
+forward
+back
+stop
+climb
+interact
+crouch
+prone
+dive (1/8 chance)
+emote (1/8 chance)
+sprint
+shoot
+hold shoot
+aim
+primary
+secondary
+support
+grenade
+stim
+reload
+melee
+
+
+for mods to allow code to be on/off:
++controlon
++controloff  

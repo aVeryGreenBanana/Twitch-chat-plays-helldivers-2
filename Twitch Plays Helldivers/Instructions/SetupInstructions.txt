@@ -1,0 +1,28 @@
+Instructions:
+
+1. Install Python 3.9 from the windows store
+
+2. go to where the Code Files folder is located, open the folder and click the quick access bar, then type in cmd
+
+3. this should bring up commmand prompt with file address already there
+
+4. type in "pip install pyautogui" and hit enter, it should give you a message confirming that it was successfully installed
+
+5. type in "pip install mouse" and hit enter, it should give you a message confirming that it was successfully installed                        
+
+6. type in "pip install pydirectinput" and hit enter, it should give you a message confirming that it was successfully installed
+
+7. type in "pip install pynput" and hit enter, it should give you a message confirming that it was successfully installed
+
+9. type in "pip install keyboard" and hit enter, it should give you a message confirming that it was successfully installed
+
+10. open tphelldivers.py with notepad (or something similar) and replace the username (currently should be averygreenbanana) to your channel name
+
+11. open tphelldivers.py using the "open with" option, and select python 3.9 
+
+12. if this works, you will be greeted with the message "connected to twitch.tv!" you are all set here. (do not close python as this will stop the connection)
+
+12.5 if this doesnt work and it says a module is missing, go to step 3, and type 'pip install module_name' so if it says that the module missing is 'sleep' then type 'pip install sleep', then repeat step 11
+
+13. once done, you can close python using normal means, or by using SHIFT+BACKPSACE. 
+
